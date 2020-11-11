@@ -1,0 +1,12 @@
+GRDAREA 15.94;-88.3;26.53;-70.85                                                                                                        
+PROJ    LCC/22.35;-81;0                                                                                                                 
+KXKY    450;300                                                                                                                         
+CPYFIL                                                                                                                                  
+GFUNC   VIL                                                                                                                             
+RADTIM  130428/1949                                                                                                                     
+RADDUR  15                                                                                                                              
+RADFRQ                                                                                                                                  
+STNFIL  cuba.tbl                                                                                                                        
+RADMODE                                                                                                                                 
+RADFIL  radar.gif                                                                                                                       
+LUTFIL  upc_rad16.tbl                                                                                                                   
